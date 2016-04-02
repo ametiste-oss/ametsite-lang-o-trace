@@ -1,5 +1,9 @@
-.idea
+.*
+!.gitignore
+!.travis.yml
 gradle.properties
+.idea
 .gradle
 build/
+out/
 *.iml
