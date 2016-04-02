@@ -1,4 +1,4 @@
-package org.amtetiste.util.object.trace;
+package org.ametiste.util.object.trace;
 
 import java.util.function.Consumer;
 
