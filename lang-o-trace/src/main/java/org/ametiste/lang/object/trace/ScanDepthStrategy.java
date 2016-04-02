@@ -1,4 +1,4 @@
-package org.ametiste.util.object.trace;
+package org.ametiste.lang.object.trace;
 
 import java.lang.reflect.Method;
 

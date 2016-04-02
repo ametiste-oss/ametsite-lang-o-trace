@@ -1,4 +1,4 @@
-package org.ametiste.util.object.trace;
+package org.ametiste.lang.object.trace;
 
 import org.aopalliance.intercept.MethodInterceptor;
 import org.objenesis.ObjenesisStd;
